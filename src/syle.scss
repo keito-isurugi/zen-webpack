@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+
+  .container {
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .wrap {
+    background-image: url("./asset/images/logo.svg");
+    p {
+      color: white;
+      font-size: 30px;
+    }
+  }
+}
